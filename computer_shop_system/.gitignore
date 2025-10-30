@@ -1,0 +1,63 @@
+
+# -------- Java / Spring Boot --------
+backend/target/
+backend/.mvn/
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/.idea/
+backend/.vscode/
+backend/.env
+backend/application-*.yml
+backend/application-*.properties
+backend/logs/
+backend/*.log
+backend/out/
+backend/hs_err_pid*
+backend/*.iml
+
+# -------- IntelliJ IDEA --------
+.idea/
+*.iml
+*.iws
+out/
+.DS_Store
+
+# -------- VS Code --------
+.vscode/
+.history/
+*.code-workspace
+
+# -------- OS Files --------
+Thumbs.db
+.DS_Store
+ehthumbs.db
+Icon?
+desktop.ini
+
+# -------- Logs --------
+*.log
+logs/
+*.pid
+*.seed
+*.pid.lock
+
+# -------- Environment --------
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# -------- Build / Deployment --------
+/build/
+/dist/
+/tmp/
+/cache/
+/coverage/
+
+# -------- Misc --------
+*.bak
+*.swp
+*.tmp
+*.old
