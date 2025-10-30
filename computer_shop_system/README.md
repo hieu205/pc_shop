@@ -7,7 +7,7 @@ Website thương mại điện tử chuyên bán linh kiện máy tính với đ
 - **3 Roles:** Customer, Staff, Admin với phân quyền rõ ràng
 - **Hệ thống bình luận:** 2 cấp (comment gốc + reply từ staff)
 - **Quản lý kho:** Cảnh báo sắp hết hàng, lịch sử nhập xuất
-- **Build PC:** Customer xây dựng cấu hình PC và xuất PDF
+- **Build PC:** Customer xây dựng cấu hình PC và xuất EXCEL
 - **Khuyến mãi:** Giảm % hoặc tiền cố định
 - **Thanh toán:** COD (Cash on Delivery)
 - **Đơn hàng:** Quản lý trạng thái đơn hàng
